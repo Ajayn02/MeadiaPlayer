@@ -2,3 +2,22 @@ React - bootstrap
 npm i react-bootstrap bootstrap
 
 bootswatch.com download and import theme to app.jsx
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RLzC55ai0eo?si=RJV4KaqERgxE_sgS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+statelifting-- technique for passing child to parent
+
+react tostify
+
+session storage & loacl storage 
+
+-both are mostly similar storages provided by browser
+-can storage data in string formate specifically in both
+-local storage data remains there if it is not cleared ,but session storage data get removed automatically after a specifiv amount of time
+-
+localstorag 
+
+-localstorage.setItem("key",value)
+-localstorage.getItem("key")
+-localstorage.clearItem("key")
+-localstorage.setItem("key",value)

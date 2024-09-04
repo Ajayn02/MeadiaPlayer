@@ -14,7 +14,7 @@ function Landing() {
               Media Player 2024</h2>
             <p style={{ textAlign: "justify" }} className='pt-5'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem, facilis, vero nostrum dolorem culpa impedit quo rerum commodi asperiores distinctio quas voluptas delectus unde natus quasi sed voluptatibus, repudiandae dicta.</p>
             <div className='d-grid'>
-              <Link to={'home'} className='btn btn-success'>Let's Go</Link>
+              <Link to={'/log'} className='btn btn-success'>Let's Go</Link>
             </div>
           </Col>
           <Col className='p-5' sm={12} md={6}>
